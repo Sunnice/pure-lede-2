@@ -23,4 +23,5 @@ git clone https://github.com/rufengsuixing/luci-app-adguardhome.git package/adgu
 git clone https://github.com/tty228/luci-app-serverchan.git package/serverchan
 git clone https://github.com/skyformat99/eqos.git package/eqos
 git clone https://github.com/frainzy1477/luci-app-clash.git package/clash
+git clone https://github.com/xiaorouji/openwrt-passwall.git package/passwall
 git clone https://github.com/Leo-Jo-My/luci-theme-opentomcat.git package/luci-theme-opentomcat
